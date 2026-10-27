@@ -1,0 +1,14 @@
+{
+  "include": [
+    "src",
+    "tests",
+    "HybridRecommenderSystem.py"
+  ],
+  "extraPaths": [
+    "src"
+  ],
+  "pythonVersion": "3.10",
+  "typeCheckingMode": "basic",
+  "venvPath": ".",
+  "venv": ".venv"
+}
